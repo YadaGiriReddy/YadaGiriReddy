@@ -41,6 +41,25 @@
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
+---
+## 💡 YouTube Playlists 👇
+| Playlist Name  | Link   |
+| ------------- |-------------|
+| Windows Automation with FlaUI |https://bit.ly/33CG4dB |
+| Java for Absolute Beginners | https://bit.ly/3keRJGa |
+| Selenium with Java     | https://bit.ly/2FyKvxj |
+| Selenium Interview Questions | https://bit.ly/3matUB3 |
+| CSS Selectors | https://bit.ly/2Rn0IbD |
+| XPath | https://bit.ly/2RlLdkw |
+| Javascript Executor | https://bit.ly/2FhNXwS |
+| Apache POI | https://bit.ly/2RrngrH |
+| Selenium Java in Telugu | https://bit.ly/3ab697k |
+| Maven | https://bit.ly/2DYfYZE |
+| How to fix Eclipse Errors |https://bit.ly/3ipvNYf |
+
+---
+
+
 <!--
 **YadaGiriReddy/YadagiriReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
