@@ -37,11 +37,11 @@
 ## 📺 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [How to get URL, Title, PageSource using Selenium WebDriver - P20 | తెలుగు |](https://www.youtube.com/watch?v=NJd5i4rw3Rg)
 - [How to maximize browser window in Selenium WebDriver - P19 | తెలుగు |](https://www.youtube.com/watch?v=h1Mj-V_onP8)
 - [Explicit Wait in Selenium WebDriver - P18 | తెలుగు |](https://www.youtube.com/watch?v=_fEHxdMb6V4)
 - [Implicit Wait Timeout in Selenium WebDriver - P17 | తెలుగు |](https://www.youtube.com/watch?v=yGjWbrljR6s)
 - [PageLoadTimeout in Selenium WebDriver - P16 | తెలుగు |](https://www.youtube.com/watch?v=Pef_oV1amYQ)
-- [How to capture screenshots of a web page using Selenium WebDriver - P15 | తెలుగు |](https://www.youtube.com/watch?v=DlhWLWzHPvw)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
