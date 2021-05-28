@@ -37,8 +37,8 @@
 ## 📺 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
-- [How to get WebElement properties using Selenium WebDriver - P21 | తెలుగు |](https://www.youtube.com/watch?v=8r_syGQqnLo)
 - [XPath Full Course in తెలుగు - P22 | Selenium | తెలుగు |](https://www.youtube.com/watch?v=f0oCvbuXmJI)
+- [How to get WebElement properties using Selenium WebDriver - P21 | తెలుగు |](https://www.youtube.com/watch?v=8r_syGQqnLo)
 - [How to get URL, Title, PageSource using Selenium WebDriver - P20 | తెలుగు |](https://www.youtube.com/watch?v=NJd5i4rw3Rg)
 - [How to maximize browser window in Selenium WebDriver - P19 | తెలుగు |](https://www.youtube.com/watch?v=h1Mj-V_onP8)
 - [Explicit Wait in Selenium WebDriver - P18 | తెలుగు |](https://www.youtube.com/watch?v=_fEHxdMb6V4)
