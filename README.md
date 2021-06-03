@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px"> I am YadaGiri Reddy
 
-### I'm a regular guy who likes to write the code and also love to break the code. In a professional terms, I'm a Automation Test Engineer.
+### I'm a regular guy who likes to write the code and also loves to break the code. In professional terms, I'm an Automation Test Engineer.
 
 ![Yadagiri Reddy's Profile Views](https://komarev.com/ghpvc/?username=YadaGiriReddy&color=green)
 
