@@ -37,11 +37,11 @@
 ## 📺 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [How to handle Calendars using Selenium WebDriver | Selenium |](https://www.youtube.com/watch?v=HqzlDEPdJ3w)
 - [JavascriptExecutor in Selenium WebDriver - P25 | తెలుగు |](https://www.youtube.com/watch?v=-4NeNaPaXk8)
 - [How to handle Calendars using Selenium WebDriver - P24 | తెలుగు |](https://www.youtube.com/watch?v=rzCCVn_E7e4)
 - [Perform Mouse  Actions in Selenium WebDriver - P23 | తెలుగు |](https://www.youtube.com/watch?v=wuEefkHhT5o)
 - [XPath Full Course in తెలుగు - P22 | Selenium | తెలుగు |](https://www.youtube.com/watch?v=f0oCvbuXmJI)
-- [How to get WebElement properties using Selenium WebDriver - P21 | తెలుగు |](https://www.youtube.com/watch?v=8r_syGQqnLo)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
