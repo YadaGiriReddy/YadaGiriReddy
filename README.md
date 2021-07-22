@@ -52,6 +52,7 @@
 | Windows Automation with FlaUI |https://bit.ly/33CG4dB |
 | Java for Absolute Beginners | https://bit.ly/3keRJGa |
 | Selenium with Java     | https://bit.ly/2FyKvxj |
+| TestNG - Testing Framework | https://bit.ly/3wXyuXB |
 | Selenium Interview Questions | https://bit.ly/3matUB3 |
 | CSS Selectors | https://bit.ly/2Rn0IbD |
 | XPath | https://bit.ly/2RlLdkw |
