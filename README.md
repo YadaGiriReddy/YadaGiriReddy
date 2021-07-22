@@ -37,11 +37,11 @@
 ## 📺 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Installation of TestNG - P2 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=EIPHiYYMD0g)
 - [Introduction to TestNG - P1 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=LQ72KZAg0QE)
 - [How to handle Calendars using Selenium WebDriver | Selenium |](https://www.youtube.com/watch?v=HqzlDEPdJ3w)
 - [JavascriptExecutor in Selenium WebDriver - P25 | తెలుగు |](https://www.youtube.com/watch?v=-4NeNaPaXk8)
 - [How to handle Calendars using Selenium WebDriver - P24 | తెలుగు |](https://www.youtube.com/watch?v=rzCCVn_E7e4)
-- [Perform Mouse  Actions in Selenium WebDriver - P23 | తెలుగు |](https://www.youtube.com/watch?v=wuEefkHhT5o)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
