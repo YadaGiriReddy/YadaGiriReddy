@@ -37,11 +37,11 @@
 ## 📺 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [TestNG annotations and the flow of execution - P7 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=I32ASJ7ICBo)
 - [Hard Assertions vs Soft Assertions in TestNG - P6 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=qaLOTq2zPXU)
 - [Assertions in TestNG - P5 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=MccoImse-qg)
 - [Basic structure of TestNG xml file - P4 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=iEOZ2FmTWe0)
 - [Create and run your first TestNG test - P3 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=k_zFvArWWTs)
-- [Installation of TestNG - P2 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=EIPHiYYMD0g)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
