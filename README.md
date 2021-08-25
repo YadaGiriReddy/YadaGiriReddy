@@ -37,11 +37,11 @@
 ## 📺 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [How to prioritize your tests in TestNG - P11 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=3kVJ9Yi3ruA)
 - [How to enable or disable test cases from testng xml file - P10 | Testing Framework |](https://www.youtube.com/watch?v=vCQ-coMJ90k)
 - [Optional Parameters in TestNG - P9 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=e-MKvkZrCJ8)
 - [Parameters in TestNG - P8 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=w7ObteNcxVA)
 - [TestNG annotations and the flow of execution - P7 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=I32ASJ7ICBo)
-- [Hard Assertions vs Soft Assertions in TestNG - P6 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=qaLOTq2zPXU)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
