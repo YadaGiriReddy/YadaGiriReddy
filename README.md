@@ -37,11 +37,11 @@
 ## 📺 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [How to use the dataprovider partially in TestNG - P18 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=do0Bql_QVhg)
 - [Parameters of Test Method and Return types of Dataprovider - P17 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=90_Pv6ixtj0)
 - [What is a Dataprovider and how to use it in TestNG - P16 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=Zi1U-8qvWSs)
 - [How to create the test group dependencies in TestNG - P15 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=_0kSbiOOnO4)
 - [How to create the test dependencies in TestNG - P14 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=QOF4t3UfgUI)
-- [How to group your tests in TestNG - P13 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=nm3J-TivIVs)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
