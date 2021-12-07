@@ -10,7 +10,8 @@
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/hyadagirireddy/) &nbsp;
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />](https://www.facebook.com/hyadagirireddy)
 &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/yadagirireddy_h/)
+[<img height="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/yadagirireddy_h/) &nbsp;
+[<img height="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />](https://t.me/hyrtutorials)
 
 ## 👩‍💻 Tech Skills 
 [<img height="35" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />](https://www.oracle.com/in/java/)&nbsp;
@@ -20,11 +21,12 @@
 [<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />](https://www.jenkins.io/)&nbsp;&nbsp;
 [<img height="30" src="https://www.selenium.dev/images/selenium_logo_square_green.png" />](https://www.selenium.dev/)&nbsp;&nbsp;
 [<img height="30" src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" />](https://cucumber.io/)&nbsp;&nbsp;
+[<img height="30" src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png" />](https://www.cypress.io/)&nbsp;&nbsp;
 [<img height="30" src="https://www.nuget.org/profiles/specflow/avatar?imageSize=512" />](https://specflow.org/)&nbsp;&nbsp;
 [<img height="30" src="https://avatars.githubusercontent.com/u/57663982?s=400&v=4" />](https://github.com/FlaUI/FlaUI)&nbsp;&nbsp;
 [<img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/)&nbsp;
 [<img height="30" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />](https://github.com/)&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />](https://about.gitlab.com/)&nbsp;&nbsp;
+[<img height="30" src="https://blog.bandhosting.nl/storage/blog/logo-square.png" />](https://about.gitlab.com/)&nbsp;&nbsp;
 [<img height="30" src="https://user-images.githubusercontent.com/45159366/57836466-a1be6800-7775-11e9-9dc3-99a19b647b6b.png" />](https://en.wikipedia.org/wiki/SQL)&nbsp;&nbsp;
 [<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />](https://www.microsoft.com/en-in/windows)&nbsp;&nbsp;
 [<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />](https://www.linux.org/)
