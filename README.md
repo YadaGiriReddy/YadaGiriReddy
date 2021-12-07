@@ -10,7 +10,7 @@
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/hyadagirireddy/) &nbsp;
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />](https://www.facebook.com/hyadagirireddy)
 &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/yadagirireddy_h/) &nbsp;
+[<img height="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/hyrtutorials/) &nbsp;
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />](https://t.me/hyrtutorials)
 
 ## 👩‍💻 Tech Skills 
