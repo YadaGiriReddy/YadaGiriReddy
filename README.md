@@ -34,7 +34,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YadaGiriReddy&theme=dark&show_icons=true&hide=contribs,prs" alt="YadaGiri Reddy | Stats" />
 
 
-## 📺 Latest YouTube videos
+## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
 - [How to use the dataprovider partially in TestNG - P18 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=do0Bql_QVhg)
@@ -45,6 +45,11 @@
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
+## 📺 Latest YouTube Videos (Telugu Language)
+
+<!-- YOUTUBETELUGU:START -->
+<!-- YOUTUBETELUGU:END -->
+⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
 ## 💡 YouTube Playlists
 | Playlist Name  | Link   |
