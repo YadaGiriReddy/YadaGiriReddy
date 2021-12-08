@@ -50,6 +50,7 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P3 - Java Basics for working with Selenium WebDriver | తెలుగు |](https://www.youtube.com/watch?v=wgWv_0LB7AE)
 - [P2 - Tools &amp; Software&#39;s required for working with Selenium WebDriver | తెలుగు |](https://www.youtube.com/watch?v=8YjPP3JMQ8w)
 - [P1 - Introduction to Selenium WebDriver | Selenium | తెలుగు |](https://www.youtube.com/watch?v=ItHM9NhtVpE)
 - [P0 - Selenium Java in Telugu - Course Introduction | Selenium | తెలుగు |](https://www.youtube.com/watch?v=Jto7decWdpQ)
