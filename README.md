@@ -50,11 +50,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
-- [P6 - Auto Download Driver Executables using WebDriverManager  | తెలుగు |](https://www.youtube.com/watch?v=b_LWRht3qYA)
-- [P5 - Launch Chrome &amp; Firefox Browsers using Selenium WebDriver | తెలుగు |](https://www.youtube.com/watch?v=RVaN0e3d9nM)
-- [P4 - Download and Install Selenium WebDriver | తెలుగు |](https://www.youtube.com/watch?v=lFV9roUnTC4)
-- [P3 - Java Basics for working with Selenium WebDriver | తెలుగు |](https://www.youtube.com/watch?v=wgWv_0LB7AE)
-- [P2 - Tools &amp; Software&#39;s required for working with Selenium WebDriver | తెలుగు |](https://www.youtube.com/watch?v=8YjPP3JMQ8w)
+- [P6 - Auto Download Driver Executables using WebDriverManager | Selenium | Java |](https://www.youtube.com/watch?v=b_LWRht3qYA)
+- [P5 - Launch Chrome &amp; Firefox Browsers using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=RVaN0e3d9nM)
+- [P4 - Download and Install Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=lFV9roUnTC4)
+- [P3 - Java Basics for working with Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=wgWv_0LB7AE)
+- [P2 - Tools &amp; Software&#39;s required for working with Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=8YjPP3JMQ8w)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
