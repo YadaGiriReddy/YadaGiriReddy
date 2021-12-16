@@ -50,11 +50,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P11 - Navigation Methods in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=AlXdRMwILe0)
 - [P10 - How to handle Dropdowns in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=Q8UK1no-uTA)
 - [P9 - How to handle basic html controls in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=-j_UjVymopg)
 - [P8 - How to handle Textboxes in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=mx5t9WdTFW8)
 - [P7 - Different Locators in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=aIh79kaJ4MI)
-- [P6 - Auto Download Driver Executables using WebDriverManager | Selenium | Java |](https://www.youtube.com/watch?v=b_LWRht3qYA)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
