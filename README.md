@@ -50,11 +50,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P15 - How to capture screenshots of a web page using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=TP4zFGgx-PI)
 - [P14 - How to handle frames in a web page using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=fuc4I0tHVNo)
 - [P13 - How to handle multiple windows or tabs using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=HmlCk02iydE)
 - [P12 - How to handle alerts in a web page using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=QxlnLI2GGFQ)
 - [P11 - Navigation Methods in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=AlXdRMwILe0)
-- [P10 - How to handle Dropdowns in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=Q8UK1no-uTA)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
