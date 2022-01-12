@@ -50,11 +50,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P22 - XPath Full Course | Selenium | Java |](https://www.youtube.com/watch?v=ilTFwMV3lHk)
 - [P21 - How to get WebElement properties using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=7WRrpNqmmcE)
 - [P20 - How to get URL, Title, PageSource using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=f8xoErVL7QU)
 - [P19 - How to maximize browser window in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=POhpyNQeck8)
 - [P18 - Explicit Wait in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=Hn3hqlszoAs)
-- [P17 - Implicit Wait Timeout in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=0Wziy-wwzmM)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
