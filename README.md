@@ -50,11 +50,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P25 - JavascriptExecutor in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=owCkCghqU-8)
 - [P24 - How to handle Calendars using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=nxdNPaKg7F8)
 - [P23 - Perform Mouse  Actions in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=Sn-ObiJIE5E)
 - [P22 - XPath Full Course | Selenium | Java |](https://www.youtube.com/watch?v=ilTFwMV3lHk)
 - [P21 - How to get WebElement properties using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=7WRrpNqmmcE)
-- [P20 - How to get URL, Title, PageSource using Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=f8xoErVL7QU)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
