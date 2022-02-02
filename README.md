@@ -50,11 +50,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P3 - Downloading and Installation of Java version 8 | Core Java |](https://www.youtube.com/watch?v=_0sfaKYTlmA)
 - [P2 - Introduction to Java | Java Programming | Core Java |](https://www.youtube.com/watch?v=ILFg074rlNY)
 - [P1 - Introduction to Programming | Java Programming | Core Java |](https://www.youtube.com/watch?v=6vbgKKSYdBA)
 - [P0 - Java Course Introduction | Java Programming | Core Java |](https://www.youtube.com/watch?v=_3GP0qyTbsI)
 - [Common issues faced while working with Selenium WebDriver](https://www.youtube.com/watch?v=oIhRNl5q3OI)
-- [P25 - JavascriptExecutor in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=owCkCghqU-8)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
