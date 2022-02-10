@@ -39,11 +39,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
+- [Capture screenshots for only failed tests in TestNG - P26 | TestNG |](https://www.youtube.com/watch?v=S5wJYCHrUQ4)
 - [TestNG Listeners - P25 | TestNG | Testing Framework | ITestListener |](https://www.youtube.com/watch?v=neG1AJCH_3Q)
 - [How to use invocationCount, invocationTimeOut &amp; threadPoolSize in TestNG - P24 | TestNG |](https://www.youtube.com/watch?v=qIENXnWJLpI)
 - [Execute your tests in parallel using TestNG - P23 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=lMzdCHom2vs)
 - [How to use timeout &amp; expectedExceptions attributes in TestNG - P22 | TestNG |](https://www.youtube.com/watch?v=ZU6qdmW0SmY)
-- [Parallel execution with DataProvider in TestNG - P21 | TestNG | Testing Framework |](https://www.youtube.com/watch?v=T6XCjr98bA8)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
