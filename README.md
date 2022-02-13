@@ -5,7 +5,7 @@
 ![Yadagiri Reddy's Profile Views](https://komarev.com/ghpvc/?username=YadaGiriReddy&color=green)
 
 ## 📫 Connect with me @
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:hyadagirireddy@example.com) &nbsp;
+[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:hyadagirireddy@gmail.com) &nbsp;
 [<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/youtube-icon.svg">](https://www.youtube.com/c/HYRTutorials/) 
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/ReddyYada)
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/hyadagirireddy/) &nbsp;
