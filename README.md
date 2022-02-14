@@ -5,7 +5,7 @@
 ![Yadagiri Reddy's Profile Views](https://komarev.com/ghpvc/?username=YadaGiriReddy&color=green)
 
 ## 📫 Connect with me @
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:hyadagirireddy@example.com) &nbsp;
+[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:hyadagirireddy@gmail.com) &nbsp;
 [<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/youtube-icon.svg">](https://www.youtube.com/c/HYRTutorials/) 
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/ReddyYada)
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/hyadagirireddy/) &nbsp;
@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P8 - Download and Install the Eclipse IDE | Core Java |](https://www.youtube.com/watch?v=c6XM9dfzSGI)
 - [P7 - Writing and Executing our first java program using Notepad and Command Prompt | Core Java |](https://www.youtube.com/watch?v=RXqpwLpSdkc)
 - [P6 - Tools required for writing and executing Java programs | Core Java |](https://www.youtube.com/watch?v=C8ofg23qLNA)
 - [P5 - Which version of java should be installed in our machine | Core Java |](https://www.youtube.com/watch?v=HddwqIDGkg8)
 - [P4 - Downloading and Installation of Java version 11 and 17 | Core Java |](https://www.youtube.com/watch?v=Nm6Q-91j6kY)
-- [P3 - Downloading and Installation of Java version 8 | Core Java |](https://www.youtube.com/watch?v=_0sfaKYTlmA)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
