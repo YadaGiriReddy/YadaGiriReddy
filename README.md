@@ -81,7 +81,7 @@
 
 ### Show some  ❤️  by starring some of the <a href="https://github.com/YadaGiriReddy?tab=repositories">repositories</a> and subscribing to my youtube channels mentioned below
 * <a href="https://www.youtube.com/c/HYRTutorials">H Y R Tutorials</a> 
-* <a href="https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw">H Y R Tutorials - Telugu</a>
+* <a href="https://www.youtube.com/c/HYRTutorialsTelugu">H Y R Tutorials - Telugu</a>
 
 ### If you like my work, You can show your support and buy me a <a href="https://www.buymeacoffee.com/yadagirireddy">coffee</a> ☕
 
