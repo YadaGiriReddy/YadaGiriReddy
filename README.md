@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P10 - Writing &amp; Executing our first java program using Eclipse IDE | Core Java |](https://www.youtube.com/watch?v=ONb-Vx4EOSI)
 - [P9 - Getting started with Eclipse IDE | Core Java |](https://www.youtube.com/watch?v=elR_H9uzQA4)
 - [P8 - Download and Install the Eclipse IDE | Core Java |](https://www.youtube.com/watch?v=c6XM9dfzSGI)
 - [P7 - Writing and Executing our first java program using Notepad and Command Prompt | Core Java |](https://www.youtube.com/watch?v=RXqpwLpSdkc)
 - [P6 - Tools required for writing and executing Java programs | Core Java |](https://www.youtube.com/watch?v=C8ofg23qLNA)
-- [P5 - Which version of java should be installed in our machine | Core Java |](https://www.youtube.com/watch?v=HddwqIDGkg8)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
