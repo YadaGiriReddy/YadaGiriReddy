@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P13 - Data types in Java | Core Java |](https://www.youtube.com/watch?v=RcnWMWptnDk)
 - [I’m from Non IT background, can I learn Software Testing?](https://www.youtube.com/watch?v=CH303j_S5X8)
 - [P12 - Class in Java | Core Java |](https://www.youtube.com/watch?v=XBESTWKipko)
 - [P11 - Packages in Java | Core Java |](https://www.youtube.com/watch?v=GfOS3G6vxo8)
 - [P10 - Writing &amp; Executing our first java program using Eclipse IDE | Core Java |](https://www.youtube.com/watch?v=ONb-Vx4EOSI)
-- [P9 - Getting started with Eclipse IDE | Core Java |](https://www.youtube.com/watch?v=elR_H9uzQA4)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
