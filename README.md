@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P15 - Methods in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=E-jRVfgT2es)
 - [I have a career gap, does the software testing field suitable for me](https://www.youtube.com/watch?v=WDsNpyv6aIQ)
 - [P14 - Variables in Java | Core Java |](https://www.youtube.com/watch?v=xINs7Qqlk-Y)
 - [P13 - Data types in Java | Core Java |](https://www.youtube.com/watch?v=RcnWMWptnDk)
 - [I’m from Non IT background, can I learn Software Testing?](https://www.youtube.com/watch?v=CH303j_S5X8)
-- [P12 - Class in Java | Core Java |](https://www.youtube.com/watch?v=XBESTWKipko)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
