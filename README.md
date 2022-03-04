@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P16 - Different type of print statements in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=U4wsiDx74oE)
 - [Is the manual testing dying?](https://www.youtube.com/watch?v=tU7hAZVpCJc)
 - [P15 - Methods in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=E-jRVfgT2es)
 - [I have a career gap, does the software testing field suitable for me](https://www.youtube.com/watch?v=WDsNpyv6aIQ)
 - [P14 - Variables in Java | Core Java |](https://www.youtube.com/watch?v=xINs7Qqlk-Y)
-- [P13 - Data types in Java | Core Java |](https://www.youtube.com/watch?v=RcnWMWptnDk)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
