@@ -61,6 +61,7 @@
 | Java for Absolute Beginners | https://bit.ly/3keRJGa |
 | Selenium with Java     | https://bit.ly/2FyKvxj |
 | TestNG - Testing Framework     | https://bit.ly/3wXyuXB |
+| Extent Reports | https://bit.ly/3pGD1gh |
 | CSS Selectors | https://bit.ly/2Rn0IbD |
 | XPath | https://bit.ly/2RlLdkw |
 | Javascript Executor | https://bit.ly/2FhNXwS |
@@ -76,6 +77,7 @@
 | Core Java in Telugu | https://bit.ly/3KMlbBk |
 | Selenium with Java in Telugu | https://bit.ly/3tL7Z9S |
 | Core Java + Selenium online classes in Telugu| https://bit.ly/30008YR |
+| Career guidance questions in Telugu | https://bit.ly/3IIk9oA |
 
 ***
 
