@@ -35,11 +35,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
+- [P5 - Log different types of information to the extent reports | Extent Reports | TestNG |](https://www.youtube.com/watch?v=79irFF_yJV8)
 - [P4 - Understand the log levels in extent reports | Extent Reports | TestNG |](https://www.youtube.com/watch?v=ySFkim9jkeY)
 - [P3 - Create a basic extent report | Extent Reports | TestNG |](https://www.youtube.com/watch?v=b1zJf52Ex14)
 - [P2 - Download and Setup extent report libraries | Extent Reports | TestNG |](https://www.youtube.com/watch?v=YqCdblSNJUs)
 - [P1 - Overview of the extent reports | Extent Reports | TestNG |](https://www.youtube.com/watch?v=nPXJohqAbwU)
-- [P0 - Extent Reports Course Introduction | Extent Reports | TestNG |](https://www.youtube.com/watch?v=iyV-fDheyD0)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
