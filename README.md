@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P19 - Decision making statements &lpar;if &amp; if else&rpar; in java | Core Java | Java Programming |](https://www.youtube.com/watch?v=ACkYv4ZxlN8)
 - [P18 - How to get the user input from console | Core Java | Java Programming |](https://www.youtube.com/watch?v=ebIej53TQ9Y)
 - [P17 - Operators in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=GEmkzPZ9hx8)
 - [Is the manual testing knowledge required for automation testing](https://www.youtube.com/watch?v=khEt-tNE3VQ)
 - [P16 - Different type of print statements in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=U4wsiDx74oE)
-- [Is the manual testing dying?](https://www.youtube.com/watch?v=tU7hAZVpCJc)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
