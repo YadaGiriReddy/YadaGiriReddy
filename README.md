@@ -46,7 +46,7 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
-- [Does tester get less salary than developer](https://www.youtube.com/watch?v=-Xyldz4roMA)
+- [Does tester get less salary than developer?](https://www.youtube.com/watch?v=-Xyldz4roMA)
 - [P19 - Decision making statements &lpar;if &amp; if else&rpar; in java | Core Java | Java Programming |](https://www.youtube.com/watch?v=ACkYv4ZxlN8)
 - [P18 - How to get the user input from console | Core Java | Java Programming |](https://www.youtube.com/watch?v=ebIej53TQ9Y)
 - [P17 - Operators in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=GEmkzPZ9hx8)
