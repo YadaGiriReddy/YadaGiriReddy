@@ -39,7 +39,7 @@
 - [P9 - Add the system/environment information to extent reports | Extent Reports |](https://www.youtube.com/watch?v=zr6ESxf0W7A)
 - [P8 - Extent report configuration using Java, JSON and XML | Extent Reports |](https://www.youtube.com/watch?v=CS7_1bQrbU4)
 - [P7 - Different attributes available for a test in extent reports | Extent Reports |](https://www.youtube.com/watch?v=HtnhNshkSy0)
-- [P6 - Attach screenshots to the extent reports | Extent Reports | TestNG |](https://www.youtube.com/watch?v=hXG6uV51OLw)
+- [P6 - Attach screenshots to the extent reports | Extent Reports |](https://www.youtube.com/watch?v=hXG6uV51OLw)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
