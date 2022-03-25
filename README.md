@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P22 - Object in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=Hx3IS85r5No)
 - [P21 - Constructors in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=JSwJHLWGmq4)
 - [P20 - Decision making statements &lpar;switch&rpar; in java | Core Java | Java Programming |](https://www.youtube.com/watch?v=KX2AnUKvgSE)
 - [Does tester get less salary than developer?](https://www.youtube.com/watch?v=-Xyldz4roMA)
 - [P19 - Decision making statements &lpar;if &amp; if else&rpar; in java | Core Java | Java Programming |](https://www.youtube.com/watch?v=ACkYv4ZxlN8)
-- [P18 - How to get the user input from console | Core Java | Java Programming |](https://www.youtube.com/watch?v=ebIej53TQ9Y)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
