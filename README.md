@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P26 - Arrays &lpar;Single Dimensional&rpar; in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=RMpjvycSZW0)
 - [P25 - Looping statements &lpar;for&rpar; in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=NLpDOqGPT3U)
 - [P24 - Looping statements &lpar;while &amp; do-while&rpar; in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=eP4My4udo7k)
 - [P23 - Comments in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=Tg_brasnNsU)
 - [P22 - Object in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=Hx3IS85r5No)
-- [P21 - Constructors in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=JSwJHLWGmq4)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
