@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [Core Java - Assignment #1 | Core Java | Java Programming |](https://www.youtube.com/watch?v=7lbkzIovNvo)
 - [P31 - Type Inference with local variables in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=VcDIytUbTjs)
 - [P30 - Static and Non static in java | Core Java | Java Programming |](https://www.youtube.com/watch?v=-sJ-z9SBdgs)
 - [P29 - Strings in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=7otVOAZm6R8)
 - [P28 - Looping statements &lpar;foreach&rpar; in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=NdItof24fyo)
-- [P27 - Arrays &lpar;Multi Dimensional&rpar; in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=NY8nbEWq-UY)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
