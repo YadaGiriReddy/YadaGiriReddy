@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [Core Java - Assignment #6 | Core Java | Java Programming |](https://www.youtube.com/watch?v=RQqEFpzdGOg)
 - [Core Java - Assignment #5 | Core Java | Java Programming |](https://www.youtube.com/watch?v=6O85dy_Vk6M)
 - [Core Java - Assignment #4 | Core Java | Java Programming |](https://www.youtube.com/watch?v=W3HBAzJu0C4)
 - [Core Java - Assignment #3 | Core Java | Java Programming |](https://www.youtube.com/watch?v=QvNGZD0ZuCc)
 - [Core Java - Assignment #2 | Core Java | Java Programming |](https://www.youtube.com/watch?v=zsOLKk6J_g4)
-- [Core Java - Assignment #1 | Core Java | Java Programming |](https://www.youtube.com/watch?v=7lbkzIovNvo)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
