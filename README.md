@@ -78,6 +78,7 @@
 | Selenium with Java in Telugu | https://bit.ly/3tL7Z9S |
 | Core Java + Selenium online classes in Telugu| https://bit.ly/30008YR |
 | Career guidance questions in Telugu | https://bit.ly/3IIk9oA |
+| Core Java - Assignments in Telugu | https://bit.ly/3sJlfds |
 
 ***
 
