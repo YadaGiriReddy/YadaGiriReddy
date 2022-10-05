@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P38 - Abstraction in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=sSR3czd45ZU)
 - [P37 - Abstract Class in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=WxNzvrpddqQ)
 - [P36 - Interface in Java - 1| Core Java | Java Programming |](https://www.youtube.com/watch?v=p19Q6pbczjc)
 - [P35 - Encapsulation in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=ubUS0Bqj_lg)
 - [P34 - Access Modifiers in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=dkUSSdUpmyY)
-- [P33 - Inheritance in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=3k-q-qk6MEU)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
