@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P40 - Exception handling in Java - 1 | Core Java | Java Programming |](https://www.youtube.com/watch?v=9oxcNSeU96k)
 - [P39 - Polymorphism in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=dDSHPBB2Z4I)
 - [P38 - Abstraction in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=sSR3czd45ZU)
 - [P37 - Abstract Class in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=WxNzvrpddqQ)
 - [P36 - Interface in Java - 1| Core Java | Java Programming |](https://www.youtube.com/watch?v=p19Q6pbczjc)
-- [P35 - Encapsulation in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=ubUS0Bqj_lg)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
