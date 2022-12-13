@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P47 - Stack in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=F5R7wn-ZXl0)
 - [P46 - ArrayList &amp; Vector in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=9f4fbj1YjY4)
 - [P45 - Collections Overview in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=Qg0vs4qBZcA)
 - [P44 - POJO Class &amp; Java Bean Class in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=jgNxBZ9194Q)
 - [P43 - Exception handling in Java - 2 | Core Java | Java Programming |](https://www.youtube.com/watch?v=20tUEKYTLpI)
-- [P42 - Handle text files in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=sP33Aixm9rE)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
