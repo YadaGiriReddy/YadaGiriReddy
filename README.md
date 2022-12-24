@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P26 - Selenium Manager in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=f9_AbQ1-nEU)
 - [P49 - Assignment on List Interface in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=uqSQQxIav70)
 - [P48 - LinkedList in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=ON7aGP85Kiw)
 - [P47 - Stack in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=F5R7wn-ZXl0)
 - [P46 - ArrayList &amp; Vector in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=9f4fbj1YjY4)
-- [P45 - Collections Overview in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=Qg0vs4qBZcA)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
