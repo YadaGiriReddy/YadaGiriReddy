@@ -35,11 +35,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
+- [How to set path in Java | Java | #shorts](https://www.youtube.com/watch?v=FeCWO2HLONg)
 - [Download and Install Java | Java | #shorts](https://www.youtube.com/watch?v=eKdS82tcsn8)
 - [Advantages of Java | Java | #shorts](https://www.youtube.com/watch?v=udRT3UCLaD8)
 - [What is Java? | Java | #shorts](https://www.youtube.com/watch?v=Uht4_1d_eY0)
 - [P28 - Extent reports integration with TestNG &lpar;using Annotations&rpar; | TestNG |](https://www.youtube.com/watch?v=P9zZ35dgrxg)
-- [P12 - Shortcuts in extent reports | Extent Reports |](https://www.youtube.com/watch?v=W9ekdTm65Jc)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
