@@ -35,11 +35,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
+- [Download and install Eclipse IDE | Java | #shorts](https://www.youtube.com/watch?v=6PJvxjnNYm0)
 - [How to set path in Java | Java | #shorts](https://www.youtube.com/watch?v=FeCWO2HLONg)
 - [Download and Install Java | Java | #shorts](https://www.youtube.com/watch?v=eKdS82tcsn8)
 - [Advantages of Java | Java | #shorts](https://www.youtube.com/watch?v=udRT3UCLaD8)
 - [What is Java? | Java | #shorts](https://www.youtube.com/watch?v=Uht4_1d_eY0)
-- [P28 - Extent reports integration with TestNG &lpar;using Annotations&rpar; | TestNG |](https://www.youtube.com/watch?v=P9zZ35dgrxg)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
