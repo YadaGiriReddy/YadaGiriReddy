@@ -35,11 +35,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
+- [Write a java program to perform the arithmetic operations on two numbers | Java | #shorts](https://www.youtube.com/watch?v=uUqQkoRMVYs)
 - [Download and install IntelliJ IDEA IDE | Java | #shorts](https://www.youtube.com/watch?v=gOT0TCgdAGE)
 - [Write your first program in Eclipse IDE | Java | #shorts](https://www.youtube.com/watch?v=fWrwxEgSblA)
 - [Download and install Eclipse IDE | Java | #shorts](https://www.youtube.com/watch?v=6PJvxjnNYm0)
 - [How to set path in Java | Java | #shorts](https://www.youtube.com/watch?v=FeCWO2HLONg)
-- [Download and Install Java | Java | #shorts](https://www.youtube.com/watch?v=eKdS82tcsn8)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
