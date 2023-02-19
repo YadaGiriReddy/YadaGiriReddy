@@ -35,11 +35,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
+- [WAJP to calculate the power of a given number | Java | #shorts](https://www.youtube.com/watch?v=Q0CdKjzmAQI)
 - [WAJP to calculate the square of a given number | Java | #shorts](https://www.youtube.com/watch?v=42dtRlDDT7o)
 - [WAJP to verify whether the given year is a leap year or common year | Java | #shorts](https://www.youtube.com/watch?v=1cHpsGm0QYM)
 - [WAJP to verify whether the given number is an even number or odd number | Java | #shorts](https://www.youtube.com/watch?v=5MIzubva1eM)
 - [Write a java program to perform Swapping of two numbers without third variable | Java | #shorts](https://www.youtube.com/watch?v=3on1icbumTw)
-- [Write a java program to perform Swapping of two numbers | Java | #shorts](https://www.youtube.com/watch?v=AhBfmH0W_OE)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
