@@ -35,11 +35,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
+- [Write a java program to print the reverse of a given number | Java | #shorts](https://www.youtube.com/watch?v=LKIqSh3OsUg)
 - [Write a java program to verify whether the given number is an Armstrong number or not | #shorts](https://www.youtube.com/watch?v=Ar4GZT-kka0)
 - [Write a java program to count the number of digits in a given number | Java | #shorts](https://www.youtube.com/watch?v=9qCTlGQ5Z2g)
 - [Write a java program to verify whether the given number is a prime number or not | Java | #shorts](https://www.youtube.com/watch?v=kWcWu0ZV5-c)
 - [WAJP to convert the temperature from Fahrenheit to Celsius | Java | #shorts](https://www.youtube.com/watch?v=aGh5In234qU)
-- [WAJP to calculate the square root of a given number | Java | #shorts](https://www.youtube.com/watch?v=_XT7G6lofKo)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
