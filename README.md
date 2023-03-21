@@ -35,11 +35,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
+- [Write a java program to print the prime numbers ranging from 10 to 60 using while loop | #shorts](https://www.youtube.com/watch?v=LbAx8PEajkM)
 - [Write a java program to print the even numbers ranging from 50 to 100 using while loop | #shorts](https://www.youtube.com/watch?v=RkX2hLrxkcA)
 - [Write a java program to print numbers ranging from 20 to 50 using while loop | Java | #shorts](https://www.youtube.com/watch?v=z0Oi1XThM40)
 - [Write a java program to verify whether the given number is palindrome or not | Java | #shorts](https://www.youtube.com/watch?v=fFZbbsmEFAk)
 - [Write a java program to print the reverse of a given number | Java | #shorts](https://www.youtube.com/watch?v=LKIqSh3OsUg)
-- [Write a java program to verify whether the given number is an Armstrong number or not | #shorts](https://www.youtube.com/watch?v=Ar4GZT-kka0)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
