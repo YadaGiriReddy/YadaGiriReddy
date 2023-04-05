@@ -35,11 +35,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
+- [Write a java program to print the factors of a given number | Java | #shorts](https://www.youtube.com/watch?v=ULB0wRldpMc)
 - [Write a java program to print the factorial of a given number | Java | #shorts](https://www.youtube.com/watch?v=euUqV76fnUw)
 - [WAJP to print the sum of the even numbers ranging from 8 to 250 using for loop | Java | #shorts](https://www.youtube.com/watch?v=kdW36rGtp4I)
 - [Write a java program to print the multiplication table of a given number | Java | #shorts](https://www.youtube.com/watch?v=WcoiLQCpIuw)
 - [write a java program to print the numbers ranging from 5 to 25 using for loop | Java | #shorts](https://www.youtube.com/watch?v=Eey7UiEDqMs)
-- [Write a java program to print the prime numbers ranging from 10 to 60 using while loop | #shorts](https://www.youtube.com/watch?v=LbAx8PEajkM)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
