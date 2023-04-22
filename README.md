@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P52 - Set in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=EpMRkjt-FaU)
 - [P51 - Queue in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=blIoH9IJlNY)
 - [Core Java - Assignment #8 | Core Java | Java Programming |](https://www.youtube.com/watch?v=LUhnZYI3Y6Y)
 - [P50 - Map in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=uJPB2V7ruN8)
 - [P26 - Selenium Manager in Selenium WebDriver | Selenium | Java |](https://www.youtube.com/watch?v=f9_AbQ1-nEU)
-- [P49 - Assignment on List Interface in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=uqSQQxIav70)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
