@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P54 - Iterator, ListIterator &amp; Enumeration in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=kJ0wclE5lZ4)
 - [P53 - Handle properties files in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=K4MEmLv0cZw)
 - [P52 - Set in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=EpMRkjt-FaU)
 - [P51 - Queue in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=blIoH9IJlNY)
 - [Core Java - Assignment #8 | Core Java | Java Programming |](https://www.youtube.com/watch?v=LUhnZYI3Y6Y)
-- [P50 - Map in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=uJPB2V7ruN8)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
