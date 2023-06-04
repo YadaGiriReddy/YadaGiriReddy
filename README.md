@@ -46,7 +46,7 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
-- [P55 - JDK, JRE and JVM in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=UAnsiqNZl64)
+- [P55 - JDK, JRE and JVM in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=UAnsiqNZl64)
 - [P54 - Iterator, ListIterator &amp; Enumeration in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=kJ0wclE5lZ4)
 - [P53 - Handle properties files in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=K4MEmLv0cZw)
 - [P52 - Set in Java | Collections | Core Java | Java Programming |](https://www.youtube.com/watch?v=EpMRkjt-FaU)
