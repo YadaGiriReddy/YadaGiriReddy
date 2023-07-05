@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P59 - Inner classes in Java - Part 1 | Core Java | Java Programming |](https://www.youtube.com/watch?v=Hfp-PaAU4EY)
 - [P58 - Garbage Collection in java | Core Java | Java Programming |](https://www.youtube.com/watch?v=5d_5V-us-Ic)
 - [Collections Framework in Java | DSA | Core Java | Java Programming |](https://www.youtube.com/watch?v=JO3wG50A_1o)
 - [P57 - Anonymous objects in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=wbb84Rwi_IQ)
 - [P56 - Memory Management in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=8bqQp7xcc2Q)
-- [P55 - JDK, JRE and JVM in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=UAnsiqNZl64)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
