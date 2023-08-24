@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P65 - Multithreading in Java - P3 | Core Java | Java Programming |](https://www.youtube.com/watch?v=v8rIwZqVsyA)
 - [P64 - Multithreading in Java - P2 | Core Java | Java Programming |](https://www.youtube.com/watch?v=Cq4oikPOH_0)
 - [P63 - Multithreading in Java - P1 | Core Java | Java Programming |](https://www.youtube.com/watch?v=-403CaIeo2o)
 - [P62 - Lambda expressions in java | Core Java | Java Programming |](https://www.youtube.com/watch?v=AdfXQVJVN2w)
 - [P61 - Interfaces in Java - Part 2 | Core Java | Java Programming |](https://www.youtube.com/watch?v=c5iq0VksvX8)
-- [P60 - Inner classes in Java - Part 2 | Core Java | Java Programming |](https://www.youtube.com/watch?v=YpFz_6anXTA)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
