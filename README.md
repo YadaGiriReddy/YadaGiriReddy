@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P67 - this keyword in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=RzxX-HtIlpY)
 - [Core Java - Assignment #9 | Core Java | Java Programming |](https://www.youtube.com/watch?v=ZT7S-xRN5V0)
 - [P66 - StringBuffer and StringBuilder in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=g3iZXiu7KbU)
 - [P65 - Multithreading in Java - P3 | Core Java | Java Programming |](https://www.youtube.com/watch?v=v8rIwZqVsyA)
 - [P64 - Multithreading in Java - P2 | Core Java | Java Programming |](https://www.youtube.com/watch?v=Cq4oikPOH_0)
-- [P63 - Multithreading in Java - P1 | Core Java | Java Programming |](https://www.youtube.com/watch?v=-403CaIeo2o)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
