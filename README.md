@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [What is Java? | Java | #shorts](https://www.youtube.com/watch?v=DpuDmPh0IWA)
 - [P69 - Wrapper classes in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=YbAzxeFRwIw)
 - [P68 - Type conversion in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=XX3NIlp_Dpg)
 - [P67 - this keyword in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=RzxX-HtIlpY)
 - [Core Java - Assignment #9 | Core Java | Java Programming |](https://www.youtube.com/watch?v=ZT7S-xRN5V0)
-- [P66 - StringBuffer and StringBuilder in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=g3iZXiu7KbU)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
