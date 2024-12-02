@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P70 - Ternary Operator in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=7Y_C9tfnpXI)
 - [I&#39;m back | Thank You for 100K+ Subscribers | YouTube Silver Play Button](https://www.youtube.com/watch?v=sYKxkRqs9pE)
 - [What is Java? | Java | #shorts](https://www.youtube.com/watch?v=DpuDmPh0IWA)
 - [P69 - Wrapper classes in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=YbAzxeFRwIw)
 - [P68 - Type conversion in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=XX3NIlp_Dpg)
-- [P67 - this keyword in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=RzxX-HtIlpY)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
