@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P75 - Generics in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=w54ikax6Ic8)
 - [P74 - Super keyword in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=APrkG7YrUJc)
 - [P73 - Enum in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=kI_SEKcJybY)
 - [P72 - Final keyword in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=uHJ1rZOdvS0)
 - [P71 - Switch expression in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=6MBngYv4xjw)
-- [P70 - Ternary Operator in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=7Y_C9tfnpXI)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
