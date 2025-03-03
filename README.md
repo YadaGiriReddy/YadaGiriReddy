@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P78 - Method References in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=0YbWqcE06h0)
 - [P77 - forEach Method in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=e6VhbtzPTzY)
 - [P76 - Comparator and Comparable in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=M-Z09QXqalo)
 - [P75 - Generics in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=w54ikax6Ic8)
 - [P74 - Super keyword in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=APrkG7YrUJc)
-- [P73 - Enum in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=kI_SEKcJybY)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
