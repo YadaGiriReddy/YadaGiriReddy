@@ -35,11 +35,11 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
-- [Write a java program to print the English Alphabet in Upper case and Lower case | Java | #shorts](https://www.youtube.com/watch?v=SrF9hpe9BeU)
-- [Write a java program to print the factors of a given number | Java | #shorts](https://www.youtube.com/watch?v=ULB0wRldpMc)
-- [Write a java program to print the factorial of a given number | Java | #shorts](https://www.youtube.com/watch?v=euUqV76fnUw)
-- [WAJP to print the sum of the even numbers ranging from 8 to 250 using for loop | Java | #shorts](https://www.youtube.com/watch?v=kdW36rGtp4I)
-- [Write a java program to print the multiplication table of a given number | Java | #shorts](https://www.youtube.com/watch?v=WcoiLQCpIuw)
+- [Write a java program to print the English Alphabet in Upper case and Lower case | Java | #shorts](https://www.youtube.com/shorts/SrF9hpe9BeU)
+- [Write a java program to print the factors of a given number | Java | #shorts](https://www.youtube.com/shorts/ULB0wRldpMc)
+- [Write a java program to print the factorial of a given number | Java | #shorts](https://www.youtube.com/shorts/euUqV76fnUw)
+- [WAJP to print the sum of the even numbers ranging from 8 to 250 using for loop | Java | #shorts](https://www.youtube.com/shorts/kdW36rGtp4I)
+- [Write a java program to print the multiplication table of a given number | Java | #shorts](https://www.youtube.com/shorts/WcoiLQCpIuw)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
