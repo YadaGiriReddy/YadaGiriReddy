@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P80 - Java Stream Operations – 1 | filter, map, sorted, peek, count, forEach](https://www.youtube.com/watch?v=UBf3cz-8bNw)
 - [P79 - Streams in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=nKlzO5wQ1UU)
 - [P78 - Method References in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=0YbWqcE06h0)
 - [P77 - forEach Method in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=e6VhbtzPTzY)
 - [P76 - Comparator and Comparable in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=M-Z09QXqalo)
-- [P75 - Generics in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=w54ikax6Ic8)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
