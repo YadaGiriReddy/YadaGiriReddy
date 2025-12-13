@@ -46,11 +46,11 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
+- [P84 - Java Stream Operations – 4 | Streams from I/O, flatMap, collect | Core Java |](https://www.youtube.com/watch?v=D3LkXXucVrg)
 - [P83 - Java Stream Operations – 3 | min, max, findFirst, findAny, reduce, stream builders](https://www.youtube.com/watch?v=KNrUlKj4aPE)
 - [P82 - Optional in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=WbX3mQM00Co)
 - [P81 - Java Stream Operations – 2 | distinct, limit, skip, mapToObj, toArray](https://www.youtube.com/watch?v=PH9vE_QLwMg)
 - [P80 - Java Stream Operations – 1 | filter, map, sorted, peek, count, forEach](https://www.youtube.com/watch?v=UBf3cz-8bNw)
-- [P79 - Streams in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=nKlzO5wQ1UU)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
 
