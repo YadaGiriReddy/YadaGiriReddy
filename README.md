@@ -7,11 +7,11 @@
 ## 📫 Connect with me @
 [<img height="30" width="37" src = "./icons/gmail.svg">](mailto:hyadagirireddy@gmail.com)
 [<img height="30" width="37" src = "./icons/youtube.svg">](https://www.youtube.com/c/HYRTutorials/) 
-[<img height="30" src="./icons/twitter.svg" />](https://twitter.com/ReddyYada)
-[<img height="30" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/hyadagirireddy/)
-[<img height="30" src="./icons//facebook.svg" />](https://www.facebook.com/hyadagirireddy)
-[<img height="30" src="./icons/instagram.svg" />](https://www.instagram.com/yadagirireddy_h/)
-[<img height="30" src="./icons//telegram.svg" />](https://t.me/hyadagirireddy)
+[<img height="30" width="37" src="./icons/twitter.svg" />](https://twitter.com/ReddyYada)
+[<img height="30" width="37" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/hyadagirireddy/)
+[<img height="30" width="37" src="./icons//facebook.svg" />](https://www.facebook.com/hyadagirireddy)
+[<img height="30" width="37" src="./icons/instagram.svg" />](https://www.instagram.com/yadagirireddy_h/)
+[<img height="30" width="37" src="./icons//telegram.svg" />](https://t.me/hyadagirireddy)
 
 ## 👩‍💻 Tech Skills 
 [<img height="35" src="./icons/java.svg" />](https://www.oracle.com/in/java/)&nbsp;
