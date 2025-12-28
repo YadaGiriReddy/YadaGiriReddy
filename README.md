@@ -1,36 +1,36 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px"> I am YadaGiri Reddy
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px" style="display:none"> I am YadaGiri Reddy
 
-### I'm a regular guy who likes to write the code and also loves to break the code. In professional terms, I'm an Automation Test Engineer.
+### I'm a regular guy who likes to write the code and also loves to break the code. In professional terms, I'm a Software Engineer.
 
 ![Yadagiri Reddy's Profile Views](https://komarev.com/ghpvc/?username=YadaGiriReddy&color=green)
 
 ## 📫 Connect with me @
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:hyadagirireddy@gmail.com) &nbsp;
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/youtube-icon.svg">](https://www.youtube.com/c/HYRTutorials/) 
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/ReddyYada)
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/hyadagirireddy/) &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />](https://www.facebook.com/hyadagirireddy)
-&nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/yadagirireddy_h/) &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />](https://t.me/hyadagirireddy)
+[<img height="30" width="37" src = "./icons/gmail.svg">](mailto:hyadagirireddy@gmail.com)
+[<img height="30" width="37" src = "./icons/youtube.svg">](https://www.youtube.com/c/HYRTutorials/) 
+[<img height="30" src="./icons/twitter.svg" />](https://twitter.com/ReddyYada)
+[<img height="30" src="./icons/linkedin.svg" />](https://www.linkedin.com/in/hyadagirireddy/)
+[<img height="30" src="./icons//facebook.svg" />](https://www.facebook.com/hyadagirireddy)
+[<img height="30" src="./icons/instagram.svg" />](https://www.instagram.com/yadagirireddy_h/)
+[<img height="30" src="./icons//telegram.svg" />](https://t.me/hyadagirireddy)
 
 ## 👩‍💻 Tech Skills 
-[<img height="35" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />](https://www.oracle.com/in/java/)&nbsp;
-[<img height="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />](https://www.javascript.com/)&nbsp;
-[<img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />](https://maven.apache.org/)&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />](https://www.jenkins.io/)&nbsp;&nbsp;
-[<img height="30" src="https://www.selenium.dev/images/selenium_logo_square_green.png" />](https://www.selenium.dev/)&nbsp;&nbsp;
-[<img height="30" src="https://i0.wp.com/www.vexevsolutions.com/wp-content/uploads/2018/10/cucumber-logo-png-transparent.png?ssl=1" />](https://cucumber.io/)&nbsp;&nbsp;
-[<img height="30" src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png" />](https://www.cypress.io/)&nbsp;&nbsp;
-[<img height="30" src="https://www.nuget.org/profiles/specflow/avatar?imageSize=512" />](https://specflow.org/)&nbsp;&nbsp;
-[<img height="30" src="https://avatars.githubusercontent.com/u/57663982?s=400&v=4" />](https://github.com/FlaUI/FlaUI)&nbsp;&nbsp;
-[<img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/)&nbsp;
-[<img height="30" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />](https://github.com/)&nbsp;
-[<img height="30" src="https://blog.bandhosting.nl/storage/blog/logo-square.png" />](https://about.gitlab.com/)&nbsp;&nbsp;
-[<img height="30" src="https://user-images.githubusercontent.com/45159366/57836466-a1be6800-7775-11e9-9dc3-99a19b647b6b.png" />](https://en.wikipedia.org/wiki/SQL)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />](https://www.microsoft.com/en-in/windows)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />](https://www.linux.org/)
+[<img height="35" src="./icons/java.svg" />](https://www.oracle.com/in/java/)&nbsp;
+[<img height="30" src="./icons/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)&nbsp;
+[<img height="30" src="./icons/js.svg" />](https://www.javascript.com/)&nbsp;
+[<img height="30" src="./icons/python.svg" />](https://www.python.org/)&nbsp;
+[<img height="30" src="./icons/maven.svg" />](https://maven.apache.org/)&nbsp;
+[<img height="30" src="./icons/jenkins.svg" />](https://www.jenkins.io/)&nbsp;
+[<img height="30" src="./icons/selenium.svg" />](https://www.selenium.dev/)&nbsp;
+[<img height="30" src="./icons/cucumber.svg" />](https://cucumber.io/)&nbsp;
+[<img height="30" src="./icons/cypress.svg" />](https://www.cypress.io/)&nbsp;
+[<img height="30" src="https://avatars.githubusercontent.com/u/57663982?s=400&v=4" />](https://github.com/FlaUI/FlaUI)&nbsp;
+[<img height="30" src="./icons/git.svg" />](https://git-scm.com/)&nbsp;
+[<img height="30" src="./icons/github.svg" />](https://github.com/)&nbsp;
+[<img height="30" src="./icons/gitlab.svg" />](https://about.gitlab.com/)&nbsp;
+[<img height="30" src="./icons/sql.svg" />](https://en.wikipedia.org/wiki/SQL)&nbsp;
+[<img height="30" src="./icons/windows.svg" />](https://www.microsoft.com/en-in/windows)&nbsp;
+[<img height="30" src="./icons/mac.svg" />](https://www.apple.com/mac/)&nbsp;
+[<img height="30" src="./icons/linux.svg" />](https://www.linux.org/)
 
 ## 📺 Latest YouTube Videos (English Language)
 
@@ -46,13 +46,13 @@
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
-- [Core Java - Assignment #7 | Core Java | Java Programming |](https://www.youtube.com/watch?v=8LNfuC2Kwgg)
-- [Core Java - Assignment #6 | Core Java | Java Programming |](https://www.youtube.com/watch?v=RQqEFpzdGOg)
-- [Core Java - Assignment #5 | Core Java | Java Programming |](https://www.youtube.com/watch?v=6O85dy_Vk6M)
-- [Core Java - Assignment #4 | Core Java | Java Programming |](https://www.youtube.com/watch?v=W3HBAzJu0C4)
-- [Core Java - Assignment #3 | Core Java | Java Programming |](https://www.youtube.com/watch?v=QvNGZD0ZuCc)
+- [P84 - Java Stream Operations – 4 | Streams from I/O, flatMap, collect | Core Java |](https://youtu.be/D3LkXXucVrg)
+- [P83 - Java Stream Operations – 3 | min, max, findFirst, findAny, reduce, stream builders](https://youtu.be/KNrUlKj4aPE)
+- [P82 - Optional in Java | Core Java | Java Programming |](https://youtu.be/WbX3mQM00Co)
+- [P81 - Java Stream Operations – 2 | distinct, limit, skip, mapToObj, toArray](https://youtu.be/PH9vE_QLwMg)
+- [P80 - Java Stream Operations – 1 | filter, map, sorted, peek, count, forEach](https://youtu.be/UBf3cz-8bNw)
 <!-- YOUTUBETELUGU:END -->
-⏩ [more videos...](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw/videos)
+⏩ [more videos...](https://www.youtube.com/c/HYRTutorialstelugu/videos)
 
 ## 💡 YouTube Playlists (English)
 | Playlist Name  | Link   |
