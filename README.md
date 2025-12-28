@@ -35,22 +35,22 @@
 ## 📺 Latest YouTube Videos (English Language)
 
 <!-- YOUTUBE:START -->
-- [P28 - Extent reports integration with TestNG &lpar;using Annotations&rpar; | TestNG |](https://www.youtube.com/watch?v=P9zZ35dgrxg)
-- [P12 - Shortcuts in extent reports | Extent Reports |](https://www.youtube.com/watch?v=W9ekdTm65Jc)
-- [P11 - Generate the extent report for only failed or skipped or passed tests | Extent Reports |](https://www.youtube.com/watch?v=S7wOFnYmZw0)
-- [P10 - Remove/Change the order of the tabs in Extent reports | Extent Reports |](https://www.youtube.com/watch?v=3XON01EALIQ)
-- [P9 - Add the system/environment information to extent reports | Extent Reports |](https://www.youtube.com/watch?v=zr6ESxf0W7A)
+- [Write a java program to print the English Alphabet in Upper case and Lower case | Java | #shorts](https://www.youtube.com/shorts/SrF9hpe9BeU)
+- [Write a java program to print the factors of a given number | Java | #shorts](https://www.youtube.com/shorts/ULB0wRldpMc)
+- [Write a java program to print the factorial of a given number | Java | #shorts](https://www.youtube.com/shorts/euUqV76fnUw)
+- [WAJP to print the sum of the even numbers ranging from 8 to 250 using for loop | Java | #shorts](https://www.youtube.com/shorts/kdW36rGtp4I)
+- [Write a java program to print the multiplication table of a given number | Java | #shorts](https://www.youtube.com/shorts/WcoiLQCpIuw)
 <!-- YOUTUBE:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorials/videos)
 
 ## 📺 Latest YouTube Videos (Telugu Language)
 
 <!-- YOUTUBETELUGU:START -->
-- [P84 - Java Stream Operations – 4 | Streams from I/O, flatMap, collect | Core Java |](https://youtu.be/D3LkXXucVrg)
-- [P83 - Java Stream Operations – 3 | min, max, findFirst, findAny, reduce, stream builders](https://youtu.be/KNrUlKj4aPE)
-- [P82 - Optional in Java | Core Java | Java Programming |](https://youtu.be/WbX3mQM00Co)
-- [P81 - Java Stream Operations – 2 | distinct, limit, skip, mapToObj, toArray](https://youtu.be/PH9vE_QLwMg)
-- [P80 - Java Stream Operations – 1 | filter, map, sorted, peek, count, forEach](https://youtu.be/UBf3cz-8bNw)
+- [P84 - Java Stream Operations – 4 | Streams from I/O, flatMap, collect | Core Java |](https://www.youtube.com/watch?v=D3LkXXucVrg)
+- [P83 - Java Stream Operations – 3 | min, max, findFirst, findAny, reduce, stream builders](https://www.youtube.com/watch?v=KNrUlKj4aPE)
+- [P82 - Optional in Java | Core Java | Java Programming |](https://www.youtube.com/watch?v=WbX3mQM00Co)
+- [P81 - Java Stream Operations – 2 | distinct, limit, skip, mapToObj, toArray](https://www.youtube.com/watch?v=PH9vE_QLwMg)
+- [P80 - Java Stream Operations – 1 | filter, map, sorted, peek, count, forEach](https://www.youtube.com/watch?v=UBf3cz-8bNw)
 <!-- YOUTUBETELUGU:END -->
 ⏩ [more videos...](https://www.youtube.com/c/HYRTutorialstelugu/videos)
 
