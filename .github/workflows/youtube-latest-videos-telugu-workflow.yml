@@ -1,17 +1,26 @@
 name: Latest Telugu YouTube Videos activity
 on:
   schedule:
-    # Runs at every 1 hour
-    - cron: '5 * * * *'
+    - cron: '5 0 * * *'   # once daily at 00:05 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
 jobs:
   update-readme-with-youtube:
     name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBETELUGU"
           commit_message: "Updated readme with the latest youtube videos"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC1Bbtdbpfert8leeKx2mssw"
+          retry_count: 3
+          retry_wait_time: 5
